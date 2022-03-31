@@ -18,7 +18,7 @@ I'm Danny! A Veteran, Computer Science Graduate and all-around enthusiast for se
   <img height="140em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielleturner&layout=compact&theme=dark&langs_count=4" />
 </a>
 <a href="https://github.com/danielleturner">
-  <img height="140em" align="center" src="https://github-readme-stats.vercel.app/api?username=danielleturner&theme=dark&layout=compact&repo=convoychat&hide=stars,issues&custom_title=Adrian's GitHub Stats" />
+  <img height="140em" align="center" src="https://github-readme-stats.vercel.app/api?username=danielleturner&theme=dark&layout=compact&repo=convoychat&hide=stars,issues&custom_title=Danielle's GitHub Stats" />
 </a>
 </p><br>
 
