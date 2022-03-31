@@ -2,7 +2,7 @@
 
 # How's it going? &nbsp; <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"><img alt="smiley" width="40em" src="https://i.imgur.com/q2UfNOW.png"/>
 
-I'm Danny! A Veteran, Computer Science Graduate and all-around enthusiast for self-improvement on this road called Software Developer. Recently transitioned into Software Development, as an abstract thinker and creative problem-solver, whether front-end or back-end, I look forward to completing the challenge.
+I'm Danny! A Veteran andComputer Science Graduate and all-around enthusiast for self-improvement on this road called Software Developer. Recently transitioned into Software Development, as an abstract thinker and creative problem-solver, whether front-end or back-end, I look forward to completing the challenge.
 
 🌱&nbsp; I'm learning Java and databases while honing my front end skills<br>
 🎓&nbsp; Currently attendung [Codeup](https://codeup.com)<br>
