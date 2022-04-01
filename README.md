@@ -11,7 +11,7 @@ I'm Danny! A Veteran andComputer Science Graduate and all-around enthusiast for 
 ## Some of my Github stats
 
 <p align="center">
-  <img height="145em"align="center" src="http://github-readme-streak-stats.herokuapp.com?user=radicaladi&theme=dark&hide_border=false&date_format=j%20M%5B%20Y%5D&fire=DD5B28" />
+  <img height="145em"align="center" src="http://github-readme-streak-stats.herokuapp.com?user=danielleturner&theme=dark&hide_border=false&date_format=j%20M%5B%20Y%5D&fire=DD5B28" />
 </p>
 <p align="center">
 <a href="https://github.com/danielleturner">
