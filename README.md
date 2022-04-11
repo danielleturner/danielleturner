@@ -5,7 +5,7 @@
 I'm Danny! A Veteran and Computer Science Graduate and all-around enthusiast for self-improvement on this road called Software Developer. Recently transitioned into Software Development, as an abstract thinker and creative problem-solver, whether front-end or back-end, I look forward to completing the challenge.
 
 🌱&nbsp; I'm learning Java and databases while honing my front end skills<br>
-🎓&nbsp; Currently attendung [Codeup](https://codeup.com)<br>
+🎓&nbsp; Currently attending [Codeup](https://codeup.com)<br>
 ✨&nbsp; <em>Fun fact</em>: While I servered in the Navy I was a Search and Rescue swimmer on several different ships.<br> 
 
 ## Some of my Github stats
