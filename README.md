@@ -3,7 +3,7 @@
 <h2>👨‍💻 My Projects:</h2>
 
 - <b>Azure / Cloud cybersecurity Projects</b>
-  - [Creating a Live OSC / Honeynet in Azure](https://github.com/danielleturner/azure-SOC)
+  - [Creating a Live SOC / Honeynet in Azure](https://github.com/danielleturner/azure-SOC)
 - <b>Full Stack Web App (HTML, Java and JavaScript)</b>
   -  https://github.com/RecyCode-M-A-A-D/RecyCode
   -   <b><i>(Potentially NSFW)</b></i>
